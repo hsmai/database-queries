@@ -1,6 +1,8 @@
 # database-queries
 
-자세한 실습 쿼리 전문은 `sql/` 폴더의 `.sql` 파일에서 확인할 수 있습니다.
+자세한 실습 쿼리 전문 및 사용한 데이터는 <br>
+각 'part' 폴더 내에서 확인할 수 있습니다.
+
 
 # University & World DB | SQL Core Operators Practice
 
@@ -86,7 +88,28 @@
 > Note: MySQL에서는 `INTERSECT`, `EXCEPT`를 기본 지원하지 않아 실습 코드에서는 주석 처리했습니다.
 
 ---
-
 ## 실행 환경
 
 MySQL
+
+---
+
+## Repository Structure
+
+```text
+.
+├─ PartA/
+│  ├─ queries/
+│  │  └─ Univ dataset Queries.sql
+│  └─ datasets/
+│     ├─ DDL.sql
+│     └─ smallRelationsInsertFile.sql
+│
+└─ PartB/
+   ├─ queries/
+   │  └─ World dataset Queries.sql
+   └─ datasets/
+      └─ world.sql
+
+
+
