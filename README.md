@@ -1,13 +1,14 @@
-# database-queries
-
-자세한 실습 쿼리 전문 및 사용한 데이터는 <br>
-각 Part 폴더 내에서 확인할 수 있습니다.
-
 
 # University & World DB | SQL Core Operators Practice
 
 관계형 데이터베이스의 기본 연산을 두 개의 샘플 DB(`UNIVERSITY`, `world`)로 실습하며 정리한 레포입니다.  
 `SELECT / WHERE / ORDER BY / (self) JOIN / 문자열 연산 / 집합 연산(UNION)` 등 **SQL의 핵심 문법을 “쿼리 단위로” 익히는 것**이 목표입니다.
+
+
+
+자세한 실습 쿼리 전문 및 사용한 데이터는 각 Part 폴더 내에서 확인할 수 있습니다.
+
+<br>
 
 [Goal]
 - `SELECT`로 필요한 컬럼/튜플을 조회하고 결과 형태를 제어
