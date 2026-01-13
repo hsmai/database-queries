@@ -6,7 +6,7 @@
 
 # University & World DB | SQL Core Operators Practice
 
-관계형 데이터베이스의 기본 연산을 두 개의 샘플 DB(`UNIVERSITY`, `world`)로 실습하며 정리한 레포입니다.  
+관계형 데이터베이스의 기본 연산을 두 개의 샘플 DB(`UNIVERSITY`, `WORLD`)로 실습하며 정리한 레포입니다.  
 `SELECT / WHERE / ORDER BY / (self) JOIN / 문자열 연산 / 집합 연산(UNION)` 등 **SQL의 핵심 문법을 “쿼리 단위로” 익히는 것**이 목표입니다.
 
 [Goal]
