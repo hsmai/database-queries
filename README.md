@@ -1,7 +1,7 @@
 # database-queries
 
 자세한 실습 쿼리 전문 및 사용한 데이터는 <br>
-각 'part' 폴더 내에서 확인할 수 있습니다.
+각 Part 폴더 내에서 확인할 수 있습니다.
 
 
 # University & World DB | SQL Core Operators Practice
@@ -110,6 +110,3 @@ MySQL
    │  └─ World dataset Queries.sql
    └─ datasets/
       └─ world.sql
-
-
-
